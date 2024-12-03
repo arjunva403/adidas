@@ -1,0 +1,686 @@
+@import url(https://db.onlinewebfonts.com/c/c0cd6ec8ce6d2bbd315a13b62ed13550?family=AdihausDIN);
+
+:root{
+    
+
+    --gl-font-family-fallback: 'Helvetica', 'Arial', sans-serif;
+    --gl-body-font-set-family-functional-7: AdihausDIN;
+    --gl-heading-font-set-family-standard-14: AdineuePRO;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.text1{
+    background: black;
+    color: white;
+    border: 50px;
+    padding: 1px;
+    border-right: 62px;
+    padding-left: 581px;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    font-family:Arial, Helvetica, sans-serif;
+   
+}
+.text1 b{
+    font-size: 10px;
+    margin-left: 51px;
+}
+.text1 .bx{
+    font-size: 21px;
+    margin-left: 8px;
+
+}
+.logo img{
+    width: 85px;
+    margin-top: 12px;
+    margin-left: 26px;
+}
+.menu{
+    top: 0;
+    display:flex;
+    column-gap: 2.4rem;
+    padding: 40px;
+    padding-bottom: 0;
+    margin-bottom: 0;
+    padding-top: 0; 
+    margin-right: 0;
+    padding-right: 0;
+
+}
+#navbar{
+    margin-top: 42px;
+    margin-left: 50px;
+    padding-left: 110px;
+
+}
+#navbar a{
+    padding-left: 13px;
+    text-decoration: none;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 14px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+}
+#navbar a#black{
+    color: red;
+}
+#login{
+    margin-left: 169px;
+
+    
+}
+#login a{
+    padding: 13px;
+    color: black;
+    text-decoration: none;
+}
+#search{
+    margin-top: 12px;
+    
+}
+#search-bar{
+    margin-top: 15px;
+    margin-left: -30px;
+    width: 182px;
+    height: 30px;
+    border:none;
+    background-color:#eeeaea;
+}
+.offer{
+    margin: 0;
+    padding-left: 259px;
+    background: #e4e2e2;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.offer p{
+    font-family: var(--gl-body-font-set-family-functional-7);
+    margin-top: 12px;
+    margin-bottom: 12px;
+    font-size: 14px;
+}
+#X{
+    margin-left: 1224px;
+    margin-top: -42px;
+    font-size: 24px;
+    margin-bottom: 12px;
+}
+.photo{
+    margin-top:0 ;
+    
+    width: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size:1550px;
+    filter: brightness(1);
+    
+    background-position: center;
+    display: flex;
+    align-items: center;
+    background-image: url("https://brand.assets.adidas.com/image/upload/f_auto,q_auto,fl_lossy/if_w_gt_1920,w_1920/em_in_fw24_black_friday_mh_d_709a43c3c7.jpg");
+    
+}
+#button1{
+    font-weight: bold;
+    margin-top: 237px;
+    margin-left: -169px;
+    width: 121px;
+    height: 31px;
+    border-color: white;
+}
+#button2{
+    font-weight: bold;
+    margin-left: 4px;
+    margin-top: 237px;
+    width: 140px;
+    height: 31px;
+    border-color:white;
+}
+#butten3{
+    font-weight: bold;
+    margin-left: 4px;
+    margin-top: 237px;
+    width: 121px;
+    height: 31px;
+    border-color:white;
+
+}
+.hd1{
+    margin-left: 71px;
+}
+#search-icon{
+    width: 36px;
+    height: 29.7px;
+    margin-left: -30px;
+    border:none;
+    
+    background-color: #eeeaea;
+}
+#search-icon .bx{
+    
+    margin-left: -8px;
+
+}
+#user{
+    margin-left: 197px;
+    margin-top: -25px;
+    
+}
+#user .bx{
+    font-size: 25px;
+}
+#heart{
+    margin-left: 240px;
+    margin-top: -27px;
+}
+#heart .bx{
+    font-size: 23px;
+}
+#shop{
+    margin-left: 285px;
+    margin-top: -24px;
+}
+#shop .bx{
+    font-size: 23px;
+}
+.hk h1{
+font-family: var(--gl-heading-font-set-family-standard-14),var(--gl-font-family-fallback);
+margin-left: 98px;
+font-size: 27px;
+}
+.hk b{
+    margin-left: -60px;
+}
+#h2{
+    
+    margin-left: 48px;
+    color:black;
+    background:white;
+    padding-left: 9px;
+    padding-right: 9px;
+    margin-top: 59px;
+    margin-bottom: 7px;
+    font-family: Tahoma;
+
+}
+#h2 h2{
+    
+    font-size: 19px;
+    margin-top: 11px;
+}
+#time{
+    margin-left: 3px;
+    padding-top: 0px;
+    color: black;
+    background: white;
+    margin-top: 51px;
+
+    
+
+}
+#time h2{
+    margin-bottom: 11px;
+    padding-left: 13px;
+    margin-top: 7px;
+    font-size: 18px;
+    padding-right: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+#h4{
+    margin-top: 130px;
+    color: black;
+    background: white;
+    margin-left: -472px;
+}
+#h4 p{
+    margin-top: 1px;
+    margin-bottom: 1px;
+    padding-left: 11px;
+    padding-right: 11px;
+}
+.dress img{
+    width: 257px;
+    height: 420px;
+    margin-left: 37px;
+}
+.discounts{
+    display: flex;
+   
+}
+#one{
+    margin-left: 38px;
+    font-size: 14px;
+    text-decoration: underline;
+    font-family: var(--gl-body-font-set-family-functional-7);
+
+}
+#two{
+    margin-left: 167px;
+    font-size: 14px;
+    text-decoration: underline;
+    font-family: var(--gl-body-font-set-family-functional-7);
+
+}
+#tree{
+    margin-left: 167px;
+    font-size: 14px;
+    text-decoration: underline;
+    font-family: var(--gl-body-font-set-family-functional-7);
+}
+#four{
+    margin-left: 167px;
+    font-size: 14px;
+    text-decoration: underline;
+    font-family: var(--gl-body-font-set-family-functional-7);
+
+}
+#five{
+    margin-left: 167px;
+    font-size: 14px;
+    text-decoration: underline;
+    font-family: var(--gl-body-font-set-family-functional-7);
+
+}
+.big{
+    margin-left: 38px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#original{
+    margin-left: 38px;
+    width: 121px;
+    height: 45px;
+    border-color: none;
+    color: white;
+    background-color: black;
+    border-style: solid;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    font-weight: bold;
+}
+#sports{
+    margin-left: 2px;
+    width: 121px;
+    height: 45px;
+    border-color: none;
+    color: black;
+    background-color: white;
+    border-style: solid;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    font-weight: bold;
+}
+#running{
+    margin-left: 2px;
+    width: 121px;
+    height: 45px;
+    border-color: none;
+    color: black;
+    background-color:white;
+    border-style: solid;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    font-weight: bold;
+}
+#training{
+    margin-left: 2px;
+    width: 121px;
+    height: 45px;
+    border-color: none;
+    color: black;
+    background-color:white;
+    border-style: solid;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    font-weight: bold;
+}
+.section-two img{
+    width: 257px;
+    height: 258px;
+    margin-left: 37px;
+    margin-top: 22px;
+
+}
+#heart2{
+    display: flex;
+    position: relative;
+    margin-bottom: -84px;
+    margin-top: 54px;
+    margin-left: 263px;
+}
+#A{
+    margin-top: -14px;
+    
+}
+#B{
+    margin-top: -14px;
+    margin-left: 279px;
+}
+#C{
+    margin-top: -14px;
+    margin-left: 279px;
+}
+#D{
+    margin-top: -14px;
+    margin-left: 279px;
+}
+#E{
+    margin-top: -14px;
+    margin-left: 279px;
+}
+#heart2 .bx{
+    font-size: 19px;
+}
+#price2{
+    display: flex;
+    position: relative;
+    margin-top: -94px;
+    margin-left: 45px;
+}
+#A6{
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#B7{
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 254px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#C8{
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 254px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#D9{
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 254px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#E10{
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 254px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#money{
+    display: flex;
+        margin-left: 44px;
+        margin-top: -40px;
+}
+#A1{
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    color: rgb(235, 110, 60);
+    font-family:var(--gl-body-font-set-family-functional-7);
+    
+}
+#B2{
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 172px;
+    color: rgb(235, 110, 60);
+    font-family:var(--gl-body-font-set-family-functional-7);
+
+
+}
+#C3{
+    
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 172px;
+    color: rgb(235, 110, 60);
+    font-family:var(--gl-body-font-set-family-functional-7);
+}
+#D4{
+    
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 171px;
+    color: rgb(235, 110, 60);
+    font-family:var(--gl-body-font-set-family-functional-7);
+}
+#E5{
+   
+    font-size: 14px;
+    background-color: white;
+    padding: 5px;
+    margin-left: 170px;
+    color: rgb(235, 110, 60);
+    font-family:var(--gl-body-font-set-family-functional-7);
+}
+#money del{
+    color: gray;
+}
+.section-3{
+    display: flex;
+    position: relative;
+    margin-bottom: -84px;
+    margin-top: 1px;
+    margin-left: 38px;
+}
+#s{
+    margin-top: -8px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    
+}
+#u{
+    margin-top: -8px;
+    margin-left: 180px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+}
+#p{
+    margin-top: -8px;
+    margin-left: 180px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+}
+#e{
+    margin-top: -8px;
+    margin-left: 180px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+}
+#r{
+    margin-top: -8px;
+    margin-left: 180px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+}
+.section-4{
+    display: flex;
+    position: relative;
+    margin-bottom: -84px;
+    margin-top: 83px;
+    margin-left: 38px;
+}
+#no1{
+    margin-top: -8px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    color: rgb(167, 165, 165);
+    
+}
+#no2{
+    margin-top: -8px;
+    margin-left: 241px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    color: rgb(167, 165, 165);
+}
+#no3{
+    margin-top: -8px;
+    margin-left: 241px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    color: rgb(167, 165, 165);
+}
+#no4{
+    margin-top: -8px;
+    margin-left: 241px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    color: rgb(167, 165, 165);
+}
+#no5{
+    margin-top: -8px;
+    margin-left: 241px;
+    font-family:var(--gl-body-font-set-family-functional-7);
+    color: rgb(167, 165, 165);
+}
+.section-5{
+    display: flex;
+    position: relative;
+    margin-bottom: -84px;
+    margin-top: 0px;
+    margin-left: 38px;
+    font-size: 76px;
+}
+p{
+    margin-top: 40px;
+    
+}
+span{
+    margin-left: -18px;
+    color: rgb(204, 203, 203);
+}
+.section-6{
+    margin-bottom: 33px;
+    background-color: black;
+    color: white;
+    align-content: center;
+    margin-top: 52px;
+}
+.section-6 #a{
+    margin-left: 502px;
+    margin-top: 79px;
+    font-family: var(--gl-font-family-fallback) , var(--gl-body-font-set-family-functional-7);
+   
+}
+.section-6 #b{
+    margin-left: 620px;
+    font-family: var(--gl-font-family-fallback) , var(--gl-body-font-set-family-functional-7);
+}
+.section-6 p{
+    margin-left: 472px;
+    margin-right: 431px;
+    font-family:  var(--gl-body-font-set-family-functional-7);
+}
+.section-6 img{
+    width: 103px;
+    margin-left: 701px;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.section-7{
+    display: flex;
+    background-color: yellow;
+    margin-top: -33px;
+    color: black;
+}
+.section-7 h1{
+    margin-left: 323px;
+    margin-right: 664px;
+    font-family: var(--gl-font-family-fallback);
+}
+.section-7 #button{
+    margin-top: 11px;
+    margin-bottom: 12px;
+    margin-left: -617px;
+    position: relative;
+    font-family: var(--gl-font-family-fallback);
+    font-weight: bold;
+    background-color: black;
+    color: white; 
+    margin-right: 402px;
+    padding: 11px;
+ 
+}
+.section-7 h4{
+    margin-right:0px;
+
+    margin-top: 3px;
+    
+}
+#a4{
+    margin-right: -27px;
+    margin-top: 5px;
+}
+.section-8{
+    display: flex;
+    margin-left: 73px;
+    font-family: var(--gl-body-font-set-family-functional-7);
+    
+}
+.section-8 #a1{
+    margin-left: 143px;
+}
+section h4{
+    font-weight: bold;
+}
+
+#prodacts{
+    
+    margin-left: -50px;
+    
+}
+#prodacts1{
+
+    list-style: none;
+    margin-left: -47px;
+    font-size: 14px;
+}
+li{
+    margin: 11px;
+}
+#sports1{
+    
+    list-style: none;
+    border-style:none;
+    margin-left: -46px;
+    font-size: 14px;
+}
+#a2{
+
+    margin-left: 68px;
+}
+#a2 .bx{
+    font-size: 28px;
+}
+.footer{
+    display: flex;
+        padding-left: 554px;
+        background-color: rgb(82, 81, 81);
+        color: white;
+}
+.footer #a6{
+    margin-left: 35px;
+}
+.footer #a7{
+    margin-left: 34px;
+
+}
+.footer p{
+    font-family: var(--gl-body-font-set-family-functional-7);
+    font-size: 13px;
+}
+.footer2{
+    background-color:rgb(82, 81, 81);
+    margin: 0;
+    padding-left: 636px;
+    padding-bottom: 1px;
+    padding-top: 1px;
+    color: white;
+    font-family: var(--gl-body-font-set-family-functional-7);
+    font-size: 13px;
+    
+
+}
+.footer2 p{
+    margin-top: 17px;
+}
